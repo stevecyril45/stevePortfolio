@@ -35,4 +35,5 @@ export class IndexComponent implements OnInit {
       this.contactForm.reset();
     }
   }
+  
 }
